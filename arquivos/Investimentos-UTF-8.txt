@@ -1,0 +1,5 @@
+Tipo;Estratégia;Nome;Rating;FGC;Valor Investido;Taxa;Data do Investimento;Data de Resgate
+RF;Pós-fixado;CDB Original;AAA;sim;18;2000,00;10%;14/01/2018;14/01/2020
+RF;Inflação;Tesouro Direto;B+;sim;24;1500,00;9.5%;14/02/2018;14/02/2025
+RV;Renda Variável;Ações do Itaú;A+;não;2000,00;48%;10/02/2017;22/10/2018;22/10/2020
+RV;Renda Variável;Fundo de Ações I;BBB;não;2500,00;42.6%;09/03/2017;23/10/2018;23/10/2020
